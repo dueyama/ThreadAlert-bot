@@ -1,5 +1,4 @@
-# ThreadAlert-bot
-discord bot
+# ThreadAlert-bot by dueyama
 
 This is a discord bot build on discord.py
 
