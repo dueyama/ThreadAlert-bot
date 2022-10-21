@@ -1,5 +1,7 @@
 # ThreadAlert-bot by dueyama
 
+The bot will post a message when a new thread is made on your guild. Posting channel is defined by CHANNEL_ID in the code.
+
 This is a discord bot build on discord.py
 
 pip install discord.py
@@ -14,5 +16,3 @@ MESSAGE CONTENT INTENT : ON
 Bot Permissions. Check the following.  
 ☑️Read Messages/View Channels    
 ☑️Send Messages
-
-The bot will post a message when a new thread is made on your guild. Posting channel is defined by CHANNEL_ID in the code.
