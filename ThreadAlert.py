@@ -1,5 +1,6 @@
 # ThreadAlert by daishin
 # Ver.0.0 2022/10/19
+# Ver.0.1 2022/11/04 (just test a pull request)
 # The bot that post a message to specific channel when a new thread is made in the guild
 import discord
 
